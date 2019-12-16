@@ -1,9 +1,3 @@
 A FLUTTER APP TO BOOK BUS TICKETS
 
-this is just a UI
-
-the main backend was buit my own servr so cant share the code
-
-the gives code is built in FLUTTER
-
-i have shared the 'lib' folder and the 'pibspec.yaml', just replace them in your code
+this is just a UI till the bus details, booking and other parts to come soon. The authentication part will be uploaded in the end.
